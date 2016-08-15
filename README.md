@@ -1,4 +1,4 @@
 # Fuber
 
-该项目是与文章《How to create an Uber splash screen》相应的最重工程，已更新至Swift 3.0，请使用 Xcode 8.0 beta4或更新打开，以保证正常运行。
+该项目是与文章《[译文]如何制作一个类似Uber的溅落式启动屏》相应的最终工程，已更新至Swift 3.0，请使用 Xcode 8.0 beta4或更新打开，以保证正常运行。
 
